@@ -1,6 +1,6 @@
-#Practice
+#Testing
 Hello World!
 
-##Subheader
+##GithubPractice
 
 Creating repository on Github.
